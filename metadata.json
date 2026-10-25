@@ -1,0 +1,6 @@
+{
+  "name": "AI-87",
+  "description": "Дунд болон ахлах сургуулийн бүх хичээлд зориулсан Судалгаа, Контент, Тайлан, Хариултын 4 AI ботоос бүрдсэн багшийн ухаалаг туслах систем.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
